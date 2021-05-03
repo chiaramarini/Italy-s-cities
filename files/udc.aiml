@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+ <category>
+     <pattern># capoluogo del Lazio #</pattern>
+     <template>Roma</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Toscana #</pattern>
+     <template>Firenze</template>
+ </category>
+ <category>
+     <pattern># capoluogo del Piemonte #</pattern>
+     <template>Torino</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Lombardia #</pattern>
+     <template>Milano</template>
+ </category>
+ <category>
+     <pattern># capoluogo del Veneto # </pattern>
+     <template>Venezia</template>
+ </category>
+ <category>
+     <pattern># capoluogo del Trentino Alto Adige #</pattern>
+     <template>Trento</template>
+ </category>
+ <category>
+     <pattern># capoluogo del Friuli Venezia Giulia #</pattern>
+     <template>Trieste</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Valle d'Aosta #</pattern>
+     <template>Aosta</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Liguria #</pattern>
+     <template>Genova</template>
+ </category>
+ <category>
+     <pattern># capoluogo dell Emilia Romagna #</pattern>
+     <template>Bologna</template>
+ </category>
+ <category>
+     <pattern># capoluogo delle Marche #</pattern>
+     <template>Ancona</template>
+ </category>
+ <category>
+     <pattern># capoluogo dell Umbria #</pattern>
+     <template>Perugia</template>
+ </category>
+ <category>
+     <pattern># capoluogo dell Abruzzo #</pattern>
+     <template>L'Aquila</template>
+ </category>
+ <category>
+     <pattern># capoluogo del Molise #</pattern>
+     <template>Campobasso</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Campania #</pattern>
+     <template>Napoli</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Puglia #</pattern>
+     <template>Bari</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Basilicata #</pattern>
+     <template>Potenza</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Calabria #</pattern>
+     <template>Catanzaro</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Sicilia #</pattern>
+     <template>Palermo</template>
+ </category>
+ <category>
+     <pattern># capoluogo della Sardegna #</pattern>
+     <template>Cagliari</template>
+ </category>
+
+
+<category>
+    <pattern># ciao #</pattern>
+    <template>Ciao, mi chiamo Geobot, oggi ti illustrerò i capoluoghi delle città e alcune delle loro caratteristiche</template>
+</category>
+
+
+<category>
+    <pattern># Roma #</pattern>
+    <template>Roma è la capitale d' Italia, ha una popolazione di 2.783.809 abitanti. il Tevere è il fiume che taglia in due la città. I monumenti principali sono il pantheon, san pietro, il colosseo, fontana di Trevi, altare della patria... Roma ha una cultura culinaria molto vasta che prevede primi piatti tipo: carbonara, cacio e pepe e la gricia. Secondi come: coda alla vaccinara e trippa. Inoltre è il più grande comune agricolo d'Europa</template>
+</category>
+
+<category>
+    <pattern># Firenze #</pattern>
+    <template>Firenze ha una popolazione di 359.755 abitanti. Tra i monumenti più conosciuti abbiamo il campanile di Giotto, il palazzo vecchio, il ponte vecchio, il duomo e la galleria degli uffizi. I piatti tipici di Firenze sono la bistecca Fiorentina e il lampredotto; Firenze e tutta la Toscana sono note per i suoi celebri vini rossi quali il Chianti e il Brunello di Montalcino   </template>
+</category>
+
+
+<category>
+    <pattern># Milano #</pattern>
+    <template>Milano con i suoi 1.397.715 abitanti è la capitale economica e della moda Italiana. Vanta vari luoghi d'interesse come il Duomo, parco sempione, i navigli, l'arco della pace e il teatro alla Scala. Puoi mangiare delle ottime cotolette e dell'ottimo risotto alla milanese con l'osso buco.</template>
+</category>
+
+
+<category>
+    <pattern># Torino #</pattern>
+    <template>Torino ha 848.196 abitanti. I monumenti più visitati sono il palazzo reale, piazza San Carlo, la Mole Antonelliana, piazza Vittorio Veneto, palazzo Madama e il museo Egizio. La città è attraversata dal fiume Po, il più lungo d'Italia. </template>
+</category>
+
+<category>
+    <pattern># Aosta #</pattern>
+    <template>Aosta, con i suoi 33.409 abitanti, è il capoluogo con meno popolazione in Italia. É famosa per i suoi paesaggi naturali mozzafiato come il parco nazionale Gran Paradiso. </template>
+</category>
+
+<category>
+    <pattern># Trento #</pattern>
+    <template>Trento ha 120.709 abitanti è attraversato dal fiume Adige e sono presenti anche le Dolomiti. I monumenti principali sono: la piazza Duomo, la chiesa Santa Maria Maggiore, l'Abbazia di San Lorenzo e il palazzo Thun. I piatti tipici sono: i strangolapreti, la polenta e lo strudel. </template>
+</category>
+
+<category>
+    <pattern># Venezia #</pattern>
+    <template>Venezia ha 255.926 abitanti, è la città più particolare d'Italia nota per la sua inusuale architettura infatti sorge su una baia. Le attrazioni principali sono: Piazza San Marco con la sua relativa basilica, le torri dell'arsenale ma anche i canali stessi e le gondole(tipica barchetta veneziana). I piatti tipici sono il baccalà mantecato, il fegato alla veneziana e le fritole.</template>
+</category>
+
+
+<category>
+    <pattern># Trieste #</pattern>
+    <template>Trieste è un lembo di terra, che si affaccia sul Mar Adriatico, di circa  200.000 abitanti. Piazza unità d'Italia è sicuramente il monumento simbolo della città; successivamente come punti di interesse abbiamo anche il golfo di Trieste, la chiesa di Sant'Antonio e il canal grande. Prosciutto cotto in crosta, zuppa e gnocchi, gulasch e scampi sono le prelibatezze autoctone. </template>
+</category>
+
+<category>
+    <pattern># Bologna #</pattern>
+    <template>Bologna è una delle città più importanti del centro Italia, ha una popolazione di circa 400.000 abitanti. Bologna sorge durante l'età medievale e a noi sono rimaste molte testimonianze quali: Piazza Maggiore, Santa Madonna, San Luca, le due torri, Asinelli e Garisenda. Possiamo mangiare dei mitici primi piatti: i tortellini, le tagliatelle e la lasagna.  </template>
+</category>
+
+<category>
+    <pattern># Genova #</pattern>
+    <template>Genova ha 559.000 abitanti, genovesi. I monumenti principali sono: Cattedrale San Lorenzo, la Basilica di Santa Maria Assunta, Basilica di Santa maria delle Vigne e la Lanterna. I piatti tipici sono: la focaccia, il pesto e la farinata.</template>
+</category>
+
+
+  <category>
+    <pattern># Ancona #</pattern>
+    <template>Ancona ha 99.108 abitanti. I monumenti principali sono l'Arco di Traiano, il palazzo del Senato,il faro vecchio di Ancona e l'arco Clementino. I piatti tipici sono: astici con peperoni dolci, baccalà e calamari. </template>
+  </category>
+  <category>
+      <pattern># Perugia #</pattern>
+      <template> Perugia, capoluogo Umbro ha una popolazione di 164.057 abitanti. Le opere architettoniche di maggior rilievo sono: la Fontana maggiore, l' Arco etrusco e l'acquedotto medievale. I piatti tipici sono: gli gnocchi al sugo d'oca, gli umbricelli al roncetto e gli stringozzi al tartufo.</template>
+  </category>
+  <category>
+      <pattern># l'aquila #</pattern>
+      <template>L'aquila è una città situata nel centro Italia e sorge lungo la catena montuosa degli Appennini ed ha 69.941 abitanti. Presenta paesaggi perlopiù montuosi e si può godere di panorami mozzafiato e paesaggi natuali senza eguali come il parco nazionale del Gran Sasso; abbiamo anche vari monumenti tra cui la cattedrale dei Santi Massimo e Giorgio, il palazzo del convitto, la chiesa di San Giusto e la chiesa di San Silvestro. I piatti tipici sono: gli amaretti,le bruschette, gli arrosticini ed i cavatielli con la ricotta.</template>
+  </category>
+  
+  <category>
+      <pattern># campobasso #</pattern>
+      <template>Campobasso ha 47.846 abitanti. I principali monumenti sono: palazzo San Giorgio, castello Manforte e la torre terzano.</template>
+  </category>
+  
+  <category>
+      <pattern># Napoli #</pattern>
+      <template>Napoli capoluogo della campania sorge lungo i fianchi del Vesuvio, uno dei vulcani più attivi e pericolosi d'Europa, con i suoi 1281 metri prevale nel paesaggio nel golgo di Napoli. questa città ha 940.940 abitanti, napoletani. I luoghi da visitare assolutamente in quetsa città sono innumerevoli: Piazza del plebiscito, la galleria Umberto I, la cattedrale di Santa Maria Annunziata, la Napoli sotterranea, il teatro San Carlo, i quartieri spagnoli... In questa città c'è una cultura gastronomica tra le più vaste e buone al mondo ed i cavalli vincenti sono: la pizza, il babà, le sfoiatelle, gli struffoli, la mozzarella di bufala campana...  </template>
+  </category>
+  
+  <category>
+      <pattern># potenza #</pattern>
+      <template>Potenza ha 66.011 abitanti, è il capoluogo della Basilicata. I monumenti principali sono: la cattedrale di san Gerardo, San Michele Arcangelo e fuori città abbiamo i famosi sassi di Matera.I piatti tipici sono: il baccalà, i fusilli alla salsiccia ed è presente la famosissima fabbrica dei baci Perugina.</template>
+  </category>
+  
+  <category>
+      <pattern># bari #</pattern>
+      <template>Bari con i suoi 313.003 abitanti è il capoluogo più ad est d'Italia. A livello naturalistico vi è la seconda pianura per grandezza d'Italia, il Tavoliere delle Puglie; di meraviglie architettoniche ce ne sono a bizzeffe: la basilica di san Nicola, il palazzo dell'acquedotto pugliese, il castello normanno-svevo famoso per la sua particolare forma ottagonale. I piatti della tradizione pugliese sono: le orecchiette alle cime di rapa, riso patate e cozze, il calzone alla barese. </template>
+  </category>
+  
+  <category>
+    <pattern># Catanzaro #</pattern>
+    <template>Catanzaro è il capoluogo calabrese, la seconda citta per numero di abitanti dopo Reggio Calabria, ed ha 86.548 abitanti. Nella citta ci sono molti luoghi di interesse come per esempio la statua di Federico II di Svevia, il Monumento ai caduti della Prima Guerra Mondiale e il Palazzo Fazzari considerato uno dei simboli della città. A livello gastronomico prevalgono i secondi piatti come l'agnello della nonna e il capretto all'origano.   </template>
+  </category>
+ 
+  <category>
+      <pattern># Palermo #</pattern>
+      <template>Palermo è il capoluogo di regione più a sud d'Italia, della sicilia. In tutta italia si mangia egregiamnte ma al sud ed in particolare a Napoli e a Palermo la cucina è qualcosa di magico, in quest'ultima per esempio se si è in giro per le strade della città e si ha voglia di mangiare qualcosa si può optare per le arancine, le rizzule o anche la vastedda fritta che è una frittella dolce o salata molto simile ad uno gnocco fritto; meriterebbero una menzione tanti altri cibi tipici come la caponata, la pasta con le sarde e la parmigiana di melanzane. A livello architettonico ci sono molti monumenti come per esempio la Basilica di San Francesco d'Assisi, eretta verso la fine del '200, il Palazzo dei Normanni, costruito dagli arabi ma cambiato nel corso del tempo, infatti al suo interno è possibile ammirare la Cappella Palatina dedicata ai santi Pietro e Paolo. </template>
+  </category>
+ 
+  <category>
+      <pattern># Cagliari #</pattern>
+      <template>Cagliari è il capoluogo sardo ed ha circa 155.000 abitanti.È famosa in tutto il mondo per il suo paesaggio unico, colorato dall’azzurro del mare e il bianco delle le rocce calcariche. La città è divisa in quattro quartieri di cui il principale è Castello che sorge sulla parte alta della città; ci sono molti luoghi di interesse come per esempio il museo archeologico nazionale di cagliari e palazzo Regio, per quanto riugurda l'architettura, mentre dal punto di vista naturalistico a cagliari e provincia ci sono alcune delle spiagge più belle al mondo. Essendo una città marittima è condizionata, in modo tutt'altro che negativo, dal mare, anche nella cucina, infatti i piatti tipici più importanti son o tutti a base di pesce come ad esempio la fregula cun cocciula che sarebbe una sorta di zuppa molto densa, cotta con vongole e cozze, e l'aragosta alla catalana; ovviamente ci sono anche specialità di terra come il famosissimo porceddu sardo.</template>
+  </category>
+
+<category>
+    <pattern> # grazie #</pattern>
+    <template> È stato un piacere aiutarti, a presto</template>
+</category>
+
+<category>
+    <pattern># Ok #</pattern>
+    <template> Posso fare altro per te?</template>
+</category>
+
+<category>
+    <pattern> No </pattern>
+    <template>È stato un piacere aiutarti, a presto</template>
+</category>
+
+<category>
+    <pattern> Si </pattern>
+    <template>Cos'altro vuoi sapere sui capoluoghi delle città e le loro caratteristiche? </template>
+</category>
+
+<category>
+    <pattern> Arrivederci </pattern>
+    <template> Arrivederci, a presto!</template>
+</category>
+
+</aiml>
+
+
